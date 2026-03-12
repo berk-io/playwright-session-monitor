@@ -1,6 +1,6 @@
 # 🔐 Playwright Session Persistence Engine
 
-### Enterprise-Grade Authentication & Monitoring Architecture
+### Enterprise-Grade Authentication & Monitoring Architecture 
 
 This project demonstrates a robust **"Login-Once, Run-Forever"** architecture using Python and Playwright. It solves the common problem of repetitive logins and strict rate-limiting by separating the **Authentication Phase** from the **Operational Phase**.
 
